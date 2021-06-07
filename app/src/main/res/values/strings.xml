@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CovalentApp</string>
+
+    <string name="covalent_services_base_url" translatable="false">https://api.covalenthq.com</string>
+    <string name="covalent_services_api_key" translatable="false">ckey_2000734ae6334c75b8b44b1466e:</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="text_details">Details</string>
+    <string name="text_get_wallet">Get Wallet</string>
+    <string name="text_balance">Balance</string>
+    <string name="text_transactions">Transactions</string>
+    <string name="text_my_wallet">My Wallet</string>
+    <string name="text_other_wallet">Other Wallet</string>
+
+    <string name="hint_eth_wallet_address">ETH Wallet Address</string>
+
+    <string name="toast_text_enter_wallet_address">Please enter an ETH wallet address</string>
+    <string name="toast_text_wallet_address_error">Please check your ETH wallet address and try again</string>
+</resources>
